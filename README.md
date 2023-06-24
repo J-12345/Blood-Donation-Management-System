@@ -22,10 +22,10 @@ Open any web browser and go to the following URL - [http://localhost/bdms/](http
 
 
 ## Screenshots
-<img src="https://github.com/avd151/bdms/blob/main/screenshots/home.png">
-<img src="https://github.com/avd151/bdms/blob/main/screenshots/register.png">
-<img src="https://github.com/avd151/bdms/blob/main/screenshots/ulogin.png">
-<img src="https://github.com/avd151/bdms/blob/main/screenshots/udashboard.png">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/home.jpg">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/admin-dashboard.jpg">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/donor-dashboard.jpd">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/add-donor-details.jpg">
 <img src="https://github.com/avd151/bdms/blob/main/screenshots/adashboard.png">
 <img src="https://github.com/avd151/bdms/blob/main/screenshots/searchdonor.png">
 <img src="https://github.com/avd151/bdms/blob/main/screenshots/addngo.png">

@@ -24,8 +24,9 @@ Open any web browser and go to the following URL - [http://localhost/bdms/](http
 ## Screenshots
 <img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/home.jpg">
 <img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/admin-dashboard.jpg">
-<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/donor-dashboard.jpd">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/donor-dashboard.jpg">
 <img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/add-donor-details.jpg">
-<img src="https://github.com/avd151/bdms/blob/main/screenshots/adashboard.png">
-<img src="https://github.com/avd151/bdms/blob/main/screenshots/searchdonor.png">
-<img src="https://github.com/avd151/bdms/blob/main/screenshots/addngo.png">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/donor-search.jpg">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/admin-login.jpg">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/campaign-details.jpg">
+<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/announcement-details.jpg">
